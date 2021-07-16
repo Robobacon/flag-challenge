@@ -1,0 +1,15 @@
+section {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    border: 1px solid black;
+}
+
+div {
+    /* border: 1px solid black; */
+    height: 7.692%;
+}
+
+.red {
+    background-color: red;
+}
